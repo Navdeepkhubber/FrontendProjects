@@ -1,3 +1,4 @@
+
 const hscore = document.querySelector(".h-score");
 const gscore = document.querySelector(".g-score");
 const hbtn1 = document.querySelector(".hbtn1");
