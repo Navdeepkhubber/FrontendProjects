@@ -5,3 +5,5 @@ Major learnings from this project are various **CSS properties**
 
 
 **Screenshot**
+
+![Business Card](https://github.com/Navdeepkhubber/FrontendProjects/blob/main/Digital%20Business%20Card/images/Digital%20Business%20Card.png "Business card")
