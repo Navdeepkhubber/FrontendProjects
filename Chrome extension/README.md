@@ -11,3 +11,5 @@ My learnings from this project includes the following concepts:
 
 
 **Screenshot**
+
+![A chrome extension to capture URLs](https://github.com/Navdeepkhubber/FrontendProjects/blob/main/Chrome%20extension/images/Output.png "Chrome extension")
