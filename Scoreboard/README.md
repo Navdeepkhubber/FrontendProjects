@@ -7,3 +7,6 @@ In this project I have built a game scoreboard where I used used the following c
 
 **Screeshots**
 
+![Scoreboard of a game](https://github.com/Navdeepkhubber/FrontendProjects/blob/main/Scoreboard/images/Output.png "Scoreboard of a game")
+
+
