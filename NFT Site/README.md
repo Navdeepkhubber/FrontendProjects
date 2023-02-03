@@ -4,9 +4,11 @@ This project contains a sample NFT website in which I have tried to implement th
      <li>Specificity</li>
      <li>Inline-block</li>
  
+ 
+ 
  **Screenshot**
 
 ![Top part of thesite](https://github.com/Navdeepkhubber/FrontendProjects/blob/main/NFT%20Site/images/Output1.png "NFT Site top part")
  
-! [Bottom part of the site](https://github.com/Navdeepkhubber/FrontendProjects/blob/main/NFT%20Site/images/Output2.png "NFT Site bottom part") 
+![Bottom part of the site](https://github.com/Navdeepkhubber/FrontendProjects/blob/main/NFT%20Site/images/Output2.png "NFT Site bottom part") 
 
