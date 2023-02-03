@@ -6,3 +6,5 @@ This project is a Blackjack Game of cards which includes the following learnings
 
 
 **Screenshot**
+
+![Game's page](https://github.com/Navdeepkhubber/FrontendProjects/blob/main/Blackjack%20Game/images/Output.png "Blackjack Game")
