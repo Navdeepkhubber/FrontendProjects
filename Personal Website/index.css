@@ -4,10 +4,17 @@ body {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 5vw;
     font-weight: bold;
     max-width: 570px;
+    margin-top: 20vw;
 }
+@media (max-width: 800px) {
+    h1 {
+        margin-top: 0vw;
+        font-size: 7vw;
+    }
+  }
 
 .container, 
 .about, 
@@ -24,13 +31,26 @@ h1 {
 }
 
 .about {
-    width: 400px;
+    width: 35vw;
     text-align:left;
     font-weight:600;
+    font-size: 2vw;
 }
 
+@media (max-width: 800px) {
+    .about {
+            font-size: 4vw;
+            width: 80vw;
+            margin-top: 20vw;
+    }
+  }
+
 footer {
-    width: 250px;
-    padding: 150px 0;
+    margin-top: 8vw;
 }
+@media (max-width: 800px) {
+    footer {
+      margin-top: 50vw;
+    }
+  }
 
