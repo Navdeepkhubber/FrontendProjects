@@ -3,7 +3,7 @@ This is a weather app built with React that allows you to fetch weather informat
 
 ## Demo
 
-
+https://basic-weather-react.netlify.app/
 
 ## Features
 
@@ -31,8 +31,6 @@ CSS
 ## Usage
 
 To use this app, simply enter the name of the city for which you want to fetch weather information and press the "Enter" button on your keyboard. The app will display the temperature, weather type, and country of the city.
-
-## Screenshots
 
 
 ## Credits and Acknowledgments
